@@ -13,10 +13,15 @@ h1{
 }
 
 h2{
+  color:sandybrown;
   font-size: 25px;
 }
+p{
+  font-size:20px;
+}
+
 #golden-text{
-  color: gold;
+  color:peru;
   font-family: 'Anton', sans-serif;
 }
 
