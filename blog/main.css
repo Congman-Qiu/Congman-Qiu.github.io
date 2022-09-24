@@ -16,9 +16,17 @@ h2{
   color:sandybrown;
   font-size: 25px;
 }
+
+ul{
+  font-size: 22px;
+  color:burlywood;
+}
+
 p{color:#fcd8a1;
   font-size:20px;
 }
+
+
 
 table, th, td {
   border: 1px solid wheat
